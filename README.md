@@ -1,4 +1,4 @@
-# Raspberry-Pi-G1-Tank
+# Speech-Synthesis-module
 ![](https://github.com/YahboomTechnology/Speech-Synthesis-module/blob/master/Yahboom_speech.jpg)
 # Introduction
 Speech Synthesis module comes with a highly integrated speech synthesis chip-XFS5152CE, which can realize Chinese and English speech synthesis, and supports mixed reading of Chinese and English. It uses I2C for communication, which is convenient and quick to operate. Users can connect it any controllers(Jetson NANO, Raspberry Pi, Arduino, Micro:bit, etc,.) by alligator clip/DuPont line/PH2.0 cable. We can also combine it with our robot cars, which will make the robot cars speak some information. 
