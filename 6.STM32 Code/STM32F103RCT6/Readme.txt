@@ -1,0 +1,2 @@
+Note: The IIC address of the new and old voice broadcast modules is different, the new version of the IIC address is: 0x30, and the old version is 0x50. 
+If it is used uncorrectly, you can try modifying another IIC address test.
